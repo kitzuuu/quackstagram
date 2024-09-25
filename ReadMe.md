@@ -23,10 +23,9 @@ Integrating a database for Cheapo Software Solutions (CSS) for their new social 
 
 
 ### AUTHORS
-- R.D.M Untesu (i6357705)
-- Nitu Cristian (i6350367)
+T.C. Nitu, R.D.M. Untesu
 
 
 ### Acknowledgements
 - https://www.mockaroo.com/ for the datasets used in the dumps
-- We would like to thank Ashish for continuous support with the project throughout the development process
+- We would like to thank Ashish Sai for continuous support with the project throughout the development process
